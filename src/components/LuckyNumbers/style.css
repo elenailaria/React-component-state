@@ -6,20 +6,20 @@
     min-height: 40px;
     background-color: white;
     border-radius: 50%;
-    border: 2px solid lightblue;
+    border: 2px solid rgb(60, 71, 75);
     margin: 8px;
     padding: 8px;
     text-align: center;
 }
 
 .lucky-number--bonus {
-    background-color: lightblue;
+    background-color: rgb(195, 156, 236);
 }
 
 .button {
     border-radius: 4px;
-    border: 2px solid lightblue;
-    background-color: lightblue;
+    border: 2px solid rgb(60, 71, 75);
+    background-color: rgb(195, 156, 236);
     margin-right: 8px;
     padding: 8px 16px;
     font-size: 18px;
@@ -36,7 +36,7 @@
 
 .button-reset {
     background-color: white;
-    color: lightblue;
+    color: rgb(195, 156, 236);
 }
 
 .button-reset:hover {
